@@ -1,0 +1,22 @@
+{
+    "name": "diegovilarinho/sarge",
+    "description": "WorkAndCode development SDK",
+    "authors": [
+        {
+            "name": "Diego Vilarinho",
+            "email": "contato@diegovilarinho.com.br"
+        }
+    ],
+    "require": {
+        "php": ">=5.6",
+        "ext-curl":"*",
+        "ext-json":"*",
+        "guzzlehttp/guzzle": "~6.0",
+        "vlucas/phpdotenv": "^2.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Sarge\\": "src/"
+        }
+    }
+}

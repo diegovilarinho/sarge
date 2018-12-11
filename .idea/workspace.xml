@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="791e199d-d17f-40d5-b1a9-c98bd5bab747" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Betty/BettyClient.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Betty/Channels/BettyChannel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Betty/Channels/BettyValidationInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Betty/Channels/EmailChannel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Betty/Config.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Betty/Exception/BettyException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Betty/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Betty/Validation/Rules/Email.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Betty/Validation/Rules/IsArray.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Betty/Validation/Rules/IsInteger.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Betty/Validation/Rules/Min.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Betty/Validation/Rules/Phone.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Betty/Validation/Rules/RuleInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Betty/Validation/Validator.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Canary/CanaryClient.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Canary/Channels/CanaryChannel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Canary/Channels/CanaryValidationInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Canary/Channels/EmailChannel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Canary/Channels/SmsChannel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Canary/Config.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Canary/Exception/CanaryException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Canary/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Canary/Validation/Rules/Email.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Canary/Validation/Rules/IsArray.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Canary/Validation/Rules/IsInteger.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Canary/Validation/Rules/Min.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Canary/Validation/Rules/Phone.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Canary/Validation/Rules/RuleInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Canary/Validation/Validator.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Environment/VariablesInterface.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Environment/VariablesInterface.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Betty/BettyTeste.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Canary/CanaryClientTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Canary/CanaryConfigTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Canary/Channels/EmailChannelTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Canary/Channels/SmsChannelTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Canary/Validation/ValidatorTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Environment/VariablesTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Environment/VariablesTest.php" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/tests/Environment/VariablesTest.php" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/Environment/VariablesInterface.php" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="973" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="sarge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sarge" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="791e199d-d17f-40d5-b1a9-c98bd5bab747" name="Default Changelist" comment="" />
+      <created>1544490459814</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544490459814</updated>
+      <workItem from="1544490461117" duration="277000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="277000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="973" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24969475" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Regex Tester" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phpunit.xml.dist">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/Environment/VariablesTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="4" column="32" lean-forward="true" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+          <folding>
+            <element signature="e#36#67#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="252">
+            <caret line="18" selection-start-line="18" selection-end-line="18" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SargeSoldier.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exception/SargeException.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Environment/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Environment/Variables.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="15" column="44" lean-forward="true" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+          <folding>
+            <element signature="e#37#110#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Environment/VariablesInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="6" column="63" selection-start-line="6" selection-start-column="63" selection-end-line="6" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Environment/Exception/VariablesException.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>
